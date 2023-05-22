@@ -32,7 +32,7 @@
 
 ---
 
-### :fire: My Stats:
+### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anoop-hub&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anoop-hub)](https://github.com/anoop-hub/github-readme-stats) -->
