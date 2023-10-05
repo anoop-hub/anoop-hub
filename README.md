@@ -11,7 +11,7 @@
 <!--[![Anoop's GitHub stats](https://github-readme-stats.vercel.app/api?username=anoop-hub&show_icons=true&theme=chartreuse-dark)](https://github.com/anoop-hub/github-readme-stats)-->
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+<!--### :hammer_and_wrench: Languages and Tools :-->
 
 <div>
   
