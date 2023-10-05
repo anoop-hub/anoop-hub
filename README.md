@@ -38,4 +38,4 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Spsden)](https://git.io/streak-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anoop-hub)](https://github.com/anoop-hub/github-readme-stats) -->
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anoop-hub&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anoop-hub&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
