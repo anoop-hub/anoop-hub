@@ -1,4 +1,4 @@
-# Anoop Parashar
+# Anoop Parashar.
 
 
 ## 🌐 Socials:
